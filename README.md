@@ -2,6 +2,8 @@
 
 Um simples aplicativo de cronômetro implementado usando a biblioteca Tkinter do Python.
 
+![foto1](https://github.com/MafiaboyBR/Cronometro/assets/139263723/79ee1e91-53b5-4229-929d-a96fa94a295c)
+
 ## Funcionalidades
 
 - Iniciar o cronômetro.
