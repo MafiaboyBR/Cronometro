@@ -4,6 +4,10 @@ Um simples aplicativo de cronômetro implementado usando a biblioteca Tkinter do
 
 ![foto1](https://github.com/MafiaboyBR/Cronometro/assets/139263723/79ee1e91-53b5-4229-929d-a96fa94a295c)
 
+![foto3](https://github.com/MafiaboyBR/Cronometro/assets/139263723/e8cd3e70-230c-4682-85bd-aca5a5318927)
+
+![foto2](https://github.com/MafiaboyBR/Cronometro/assets/139263723/19d19177-a787-43f1-bd0f-5fd86b8eb3b6)
+
 ## Funcionalidades
 
 - Iniciar o cronômetro.
